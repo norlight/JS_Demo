@@ -1,0 +1,20 @@
+//
+//  PrefixHeader.pch
+//  JS_Demo
+//
+//  Created by X on 15/11/6.
+//  Copyright (c) 2015年 ej. All rights reserved.
+//
+
+#ifndef JS_Demo_PrefixHeader_pch
+#define JS_Demo_PrefixHeader_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif
+
+
+//简书主题风格颜色
+#define XEJJSColor [UIColor colorWithRed:244.0 / 255.0 green:148.0 / 255.0 blue:132.0 / 255.0 alpha:1]
+#define XEJJSBaseURLString [NSString stringWithFormat:@"http://www.jianshu.com/"]
